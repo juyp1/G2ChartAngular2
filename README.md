@@ -1,0 +1,3 @@
+# G2ChartAngular2
+G2ChartAngular2 +Typescript
+阿里G2chart Angularjs2+TypeScript实现 官网图标示例 因为官网没有Angularjs版的只有React版的所以实现G2-Angular2
